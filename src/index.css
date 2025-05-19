@@ -35,12 +35,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-.navbar-container{
-  height: 60px;
-  background-color:rgb(78, 39, 1);
-}
-
-.navbar-wrapper{
-  padding: 10px 20px;
-}
